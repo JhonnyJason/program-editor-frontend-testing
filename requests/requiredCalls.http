@@ -1,0 +1,8 @@
+@programManagerBackend = https://program-manager-backend.auroxtech.com
+
+POST {{programManagerBackend}}/loadProgramData
+content-type: application/json
+
+{
+    "a": "a"
+}
